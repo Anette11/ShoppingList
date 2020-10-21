@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="type_hint"><i>Type</i></string>
+    <string name="amount_hint"><i>Amount</i></string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete_all">Delete all items?</string>
+    <string name="edit_item">Edit item</string>
+    <string name="add_item">Add item</string>
+    <string name="delete_item">Delete item</string>
+    <string name="delete_item_submenu">Delete item?</string>
+    <string name="insert_type_toast">Insert Type</string>
+    <string name="inserted_toast">Inserted</string>
+    <string name="not_updated_toast">NOT updated</string>
+    <string name="updated_toast">Updated</string>
+    <string name="deleted_toast">Deleted</string>
+    <string name="menu">Menu</string>
+</resources>
